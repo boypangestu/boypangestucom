@@ -1,7 +1,7 @@
 {
   "title": "Boypangestu Site",
-  "color_scheme": "dark",
-  "accent_color": "yellow",
+  "color_scheme": "light",
+  "accent_color": "green",
   "header": {
     "title": "BOYPANGESTU",
     "has_nav": true
