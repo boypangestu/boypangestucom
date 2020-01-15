@@ -6,8 +6,7 @@ sections:
   title: Hi, I'm Prabowo Adi Pangestu.
   section_id: hero
   component: HeroBlock
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: 'Welcome to my personal site. '
 menus:
   main:
     title: Home
