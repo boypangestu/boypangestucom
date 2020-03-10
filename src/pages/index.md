@@ -6,10 +6,7 @@ sections:
   title: Hi, I'm Prabowo Adi Pangestu.
   section_id: hero
   component: HeroBlock
-  content: |-
-    ![](/images/kocheng.jpg)
-
-    Welcome to my personal site.
+  content: Welcome to my personal site.
 menus:
   main:
     title: Home
