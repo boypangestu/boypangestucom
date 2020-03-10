@@ -5,7 +5,7 @@ sections:
   component: ContentBlock
   type: contentblock
   image: "/images/kocheng.jpg"
-  title: ''
+  title: kucing
   section_id: ''
   subtitle: ''
   content: ''
