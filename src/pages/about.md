@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-img_path: "/images/Monumen_Nasional.png"
+img_path: ''
 menus:
   main:
     title: About
@@ -9,10 +9,12 @@ menus:
 template: page
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+I commonly make Web/Frontend/Backend/API using PHP & JavaScript as a main language. Very interested in developing Information system, Web Page, and UI Design. Always eager to learn a new thing.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+> Some people learn to lose. others lose and learn. 
+>
+> \- Georges St-Pierre
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+When not working, Prabowo enjoys for movie marathons, Learning about Modern Web Design, and rubbing his lovely cat.
 
-*Thank You for reading!*
+_Thank You for reading!_
