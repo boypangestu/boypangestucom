@@ -6,7 +6,7 @@ sections:
   title: Hi, I'm Prabowo Adi Pangestu.
   section_id: hero
   component: HeroBlock
-  content: Welcome to my personal site.
+  content: '"Web Developer, base on Jakarta"'
 menus:
   main:
     title: Home
