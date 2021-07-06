@@ -34,3 +34,4 @@ fields:
     required: true
 pages:
 - src/pages/projects/monas.md
+- src/pages/projects/sirio.md
